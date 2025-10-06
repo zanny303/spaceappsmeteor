@@ -1,4 +1,4 @@
-# 🛡️ NASA Planetary Defense System
+# 🛡️Planetary Defense System
 
 **AI-Enhanced Asteroid Impact Analysis & Mission Planning Platform**
 
@@ -220,6 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/nasa-space-apps-2025/issues) · [Request Feature](https://github.com/yourusername/nasa-space-apps-2025/issues) · [Documentation](TECHNICAL_DOCUMENTATION.md)
 
 </div>
+
 
 
 
