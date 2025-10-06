@@ -62,6 +62,7 @@ python app.py
 ```
 Backend runs on **http://localhost:5000**
 use curl command to ensure backend runs on this port in the terminal
+also download poliastro's latest versoin using the command: pip install git+https://github.com/poliastro/poliastro.git
 
 **3. Set up the frontend:**
 ```bash
@@ -111,7 +112,6 @@ Try these well-known Near-Earth Objects:
 | `99942` | Apophis | Famous close-approacher (2029) |
 | `101955` | Bennu | OSIRIS-REx mission target |
 | `25143` | Itokawa | Hayabusa mission target |
-| `433` | Eros | First asteroid orbited by spacecraft |
 
 ---
 
@@ -220,5 +220,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/nasa-space-apps-2025/issues) · [Request Feature](https://github.com/yourusername/nasa-space-apps-2025/issues) · [Documentation](TECHNICAL_DOCUMENTATION.md)
 
 </div>
+
 
 
